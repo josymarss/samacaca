@@ -1,0 +1,21 @@
+{
+    "name": "samacaca",
+    "displayName": "samacaca",
+    "description": "A beautiful dark theme, inspired by bantu people in Angola and math.",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.54.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "samacaca",
+                "uiTheme": "vs-dark",
+                "path": "./themes/samacaca-color-theme.json"
+            }
+        ]
+    }
+}
